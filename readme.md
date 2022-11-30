@@ -2,4 +2,4 @@
 #### binary to decimal app 
 ![](./Image/Binary_Decimal.png)
 
-[Deployed Link]()
+[Deployed Link](https://dainty-shortbread-5b2508.netlify.app/)
